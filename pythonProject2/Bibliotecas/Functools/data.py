@@ -1,0 +1,26 @@
+products=[
+    {'name':'p1','price':20},
+    {'name':'p2','price':10},
+    {'name':'p3','price':50},
+    {'name':'p4','price':100},
+    {'name':'p5','price':200},
+    {'name':'p6','price':34},
+    {'name':'p7','price':45},
+    {'name':'p8','price':36},
+    {'name':'p9','price':25},
+    {'name':'p10','price':67}
+]
+
+people=[
+    {'name':'Roger','age':29},
+    {'name':'Joao','age':80},
+    {'name':'Ana','age':75},
+    {'name':'Lucas','age':60},
+    {'name':'Jose','age':19},
+    {'name':'Flavia','age':15},
+    {'name':'Fernanda','age':31},
+    {'name':'Pamela','age':44},
+    {'name':'Rafa','age':30},
+    {'name':'Pedro','age':22}
+]
+list_1_to_10=list(range(1,11))
