@@ -23,6 +23,9 @@ class People :
         self.speaking = False
 
     def eat(self, food):
+        if self.speaking:
+            print( f'{self.name} is already talking' )
+            return
         if self.eating:
             print( f'{self.name} is already eating' )
             return
