@@ -27,6 +27,6 @@ class Product :
 
 p1=Product ('Caixa', 10)
 print( p1.discount( 10 ))
-p2= Product('AAAAAA','20')
-print(p2.discount(20))
+p2= Product('mokao','R$20')
+print(p2.price)
 print(p2.name)
